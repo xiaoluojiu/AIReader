@@ -1,0 +1,14 @@
+h2{
+	color:#000000!important;  
+}
+/* 数字平方上标 */
+span.sbiaopf{
+margin:0em;
+font-size:0.7em;
+vertical-align:super;
+}
+
+/* 单行垂直居中3 */
+div.juzhong3{
+margin:40% 5% auto 5%;
+}

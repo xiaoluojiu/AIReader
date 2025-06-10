@@ -1,0 +1,123 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="理查德·科克">理查德·科克</dc:creator>
+<dc:publisher>Amazon</dc:publisher>
+    <meta name="calibre:title_sort" content="80/20法则"/>
+    <meta name="calibre:rating" content="8.0"/>
+    <dc:description>&lt;span class="short"&gt;《80/20法则》是通行于商业领域的最基本法则之一。在80/20法则得到广泛传播之前，很多企业认为自己所
+有的客户都同样重要。但80/20法则告诉我们，80％的回报、产出和结果，总是来自于20％的投入、努力和原因。选择为什么样的客户服务，已经成为企业
+战略的重要组成部分，通过向能够带来最多利润的客户配置更多资源，企业大幅提高了盈利水平。《80/20法则》将引领你重新认识80/20法则的价值，并
+找到以“少”胜“多”的秘诀——专注于重要的20％，即“关键少数”。正是由于未能把握80/20法则这一精髓，很多企业在复杂化的道路上越走越远——无
+论是规模的扩张还是业务范围的扩大，结果往往在并购或多元化经营的道路上遭遇挫折。作为80/20法则的优秀践行者，科克所做的就是引领我们发现最重要的
+20％，并学会为己所用。科克的突出贡献还在于，他将80/20法则的应用从商业领域...&lt;/span&gt;</dc:description>
+    <meta name="calibre:timestamp" content="2014-05-15T05:37:28.373000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <dc:date>2013-11-17T16:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.36.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">6510f934-d9cc-4667-aa65-dd249232cffd</dc:identifier>
+    <dc:title>80/20法则</dc:title>
+<dc:subject>时间管理</dc:subject>
+<dc:subject>管理</dc:subject>
+<dc:subject>个人管理</dc:subject>
+<dc:subject>效能</dc:subject>
+<dc:subject>商业</dc:subject>
+<dc:subject>商业管理</dc:subject>
+<dc:subject>励志</dc:subject>
+<dc:subject>经济管理</dc:subject>
+<dc:subject>亚马逊</dc:subject>
+<meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;理查德·科克&quot;: &quot;&quot;}"/>
+<dc:language>zh</dc:language>
+<dc:identifier opf:scheme="calibre">6510f934-d9cc-4667-aa65-dd249232cffd</dc:identifier>
+<dc:identifier opf:scheme="MOBI-ASIN">506bc925-e3ec-4a1e-9c74-8402f3197fb3</dc:identifier>
+<dc:identifier opf:scheme="ISBN">9787508642680</dc:identifier>
+<meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 6, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: &quot;好&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_6&quot;, &quot;is_editable&quot;: true, &quot;is_multiple2&quot;: {}, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;质量&quot;}"/>
+        </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="images/00002.jpeg" id="id2" media-type="image/jpeg"/>
+    <item href="images/00003.jpeg" id="id3" media-type="image/jpeg"/>
+    <item href="images/00004.jpeg" id="id4" media-type="image/jpeg"/>
+    <item href="images/00005.jpeg" id="id5" media-type="image/jpeg"/>
+    <item href="images/00006.jpeg" id="id6" media-type="image/jpeg"/>
+    <item href="images/00007.jpeg" id="id7" media-type="image/jpeg"/>
+    <item href="images/00008.jpeg" id="id8" media-type="image/jpeg"/>
+    <item href="images/00009.jpeg" id="id9" media-type="image/jpeg"/>
+    <item href="images/00010.jpeg" id="id10" media-type="image/jpeg"/>
+    <item href="images/00011.jpeg" id="id11" media-type="image/jpeg"/>
+    <item href="images/00012.jpeg" id="id12" media-type="image/jpeg"/>
+    <item href="images/00013.jpeg" id="id13" media-type="image/jpeg"/>
+    <item href="images/00014.jpeg" id="id14" media-type="image/jpeg"/>
+    <item href="images/00015.jpeg" id="id15" media-type="image/jpeg"/>
+    <item href="images/00016.jpeg" id="id16" media-type="image/jpeg"/>
+    <item href="images/00017.jpeg" id="id17" media-type="image/jpeg"/>
+    <item href="images/00018.jpeg" id="id18" media-type="image/jpeg"/>
+    <item href="images/00019.jpeg" id="id19" media-type="image/jpeg"/>
+    <item href="images/00020.jpeg" id="id20" media-type="image/jpeg"/>
+    <item href="images/00021.jpeg" id="id21" media-type="image/jpeg"/>
+    <item href="images/00022.jpeg" id="id22" media-type="image/jpeg"/>
+    <item href="images/00023.jpeg" id="id23" media-type="image/jpeg"/>
+    <item href="images/00024.jpeg" id="id24" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="text/part0000.html" id="id33" media-type="application/xhtml+xml"/>
+    <item href="text/part0001.html" id="id34" media-type="application/xhtml+xml"/>
+    <item href="text/part0002.html" id="id35" media-type="application/xhtml+xml"/>
+    <item href="text/part0003.html" id="id36" media-type="application/xhtml+xml"/>
+    <item href="text/part0004.html" id="id37" media-type="application/xhtml+xml"/>
+    <item href="text/part0005.html" id="id38" media-type="application/xhtml+xml"/>
+    <item href="text/part0006.html" id="id39" media-type="application/xhtml+xml"/>
+    <item href="text/part0007.html" id="id40" media-type="application/xhtml+xml"/>
+    <item href="text/part0008.html" id="id41" media-type="application/xhtml+xml"/>
+    <item href="text/part0009.html" id="id42" media-type="application/xhtml+xml"/>
+    <item href="text/part0010.html" id="id43" media-type="application/xhtml+xml"/>
+    <item href="text/part0011.html" id="id44" media-type="application/xhtml+xml"/>
+    <item href="text/part0012.html" id="id45" media-type="application/xhtml+xml"/>
+    <item href="text/part0013.html" id="id46" media-type="application/xhtml+xml"/>
+    <item href="text/part0014.html" id="id47" media-type="application/xhtml+xml"/>
+    <item href="text/part0015.html" id="id48" media-type="application/xhtml+xml"/>
+    <item href="text/part0016.html" id="id49" media-type="application/xhtml+xml"/>
+    <item href="text/part0017.html" id="id50" media-type="application/xhtml+xml"/>
+    <item href="text/part0018.html" id="id51" media-type="application/xhtml+xml"/>
+    <item href="text/part0019.html" id="id52" media-type="application/xhtml+xml"/>
+    <item href="text/part0020.html" id="id53" media-type="application/xhtml+xml"/>
+    <item href="text/part0021.html" id="id54" media-type="application/xhtml+xml"/>
+    <item href="text/part0022.html" id="id55" media-type="application/xhtml+xml"/>
+    <item href="text/part0023.html" id="id56" media-type="application/xhtml+xml"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id33"/>
+    <itemref idref="id34"/>
+    <itemref idref="id35"/>
+    <itemref idref="id36"/>
+    <itemref idref="id37"/>
+    <itemref idref="id38"/>
+    <itemref idref="id39"/>
+    <itemref idref="id40"/>
+    <itemref idref="id41"/>
+    <itemref idref="id42"/>
+    <itemref idref="id43"/>
+    <itemref idref="id44"/>
+    <itemref idref="id45"/>
+    <itemref idref="id46"/>
+    <itemref idref="id47"/>
+    <itemref idref="id48"/>
+    <itemref idref="id49"/>
+    <itemref idref="id50"/>
+    <itemref idref="id51"/>
+    <itemref idref="id52"/>
+    <itemref idref="id53"/>
+    <itemref idref="id54"/>
+    <itemref idref="id55"/>
+    <itemref idref="id56"/>
+  </spine>
+  <guide>
+    <reference href="text/part0002.html" title="目录" type="toc"/>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+    <reference href="text/part0003.html" title="start" type="text"/>
+  </guide>
+</package>

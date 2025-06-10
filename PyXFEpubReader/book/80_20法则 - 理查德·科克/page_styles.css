@@ -1,0 +1,32 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "fzlth";
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "songti";
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "kaiti";
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "fzlth";
+    src: local("微软雅黑"), local("黑体"), local("hei"), local("MYing Hei S"), url(styles/XXXXXXXXXXXXXXXX), local("STHeiti"), local("Sans-serif")
+    }
+@font-face {
+    font-family: "heiti";
+    src: local("微软雅黑"), local("黑体"), local("hei"), local("Helvetica"), local("STHeiti"), local("DroidSansFallback"), local("Sans-serif"), local("Monospace")
+    }
+@font-face {
+    font-family: "songti";
+    src: local("华文中宋"), local("宋体"), local("Songti SC"), local("Times New Roman"), local("song"), local("Song S"), url(styles/XXXXXXXXXXXXXXXX), local("Serif")
+    }
+@font-face {
+    font-family: "kaiti";
+    src: local("楷体"), local("楷体_GB2312"), local("Kaiti SC"), local("kai"), local("MKai PRC"), local("Georgia"), url(styles/XXXXXXXXXXXXXXXX)
+    }

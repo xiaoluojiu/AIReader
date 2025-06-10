@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta name="dtb:uid" content="bookid"/>
+      <meta name="dtb:depth" content="0"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>UnKnown</text>
+   </docTitle>
+   <navMap>
+     <navPoint id="navPoint-1" playOrder="00">
+       <navLabel>
+         <text>扉页</text>
+       </navLabel>
+       <content src="text00000.html"/>
+     </navPoint>
+     <navPoint id="navPoint-2" playOrder="01">
+       <navLabel>
+         <text>目录</text>
+       </navLabel>
+       <content src="text00001.html"/>
+     </navPoint>
+     <navPoint id="navPoint-3" playOrder="02">
+       <navLabel>
+         <text>第1章 人类的新议题</text>
+       </navLabel>
+       <content src="text00004.html"/>
+     <navPoint id="navPoint-4" playOrder="0A">
+       <navLabel>
+         <text>生物贫穷线</text>
+       </navLabel>
+       <content src="text00004.html#sigil_toc_id_1"/>
+     </navPoint>
+     <navPoint id="navPoint-5" playOrder="0B">
+       <navLabel>
+         <text>看不见的舰队</text>
+       </navLabel>
+       <content src="text00004.html#sigil_toc_id_2"/>
+     </navPoint>
+     <navPoint id="navPoint-6" playOrder="0C">
+       <navLabel>
+         <text>打破弱肉强食的“丛林法则”</text>
+       </navLabel>
+       <content src="text00004.html#sigil_toc_id_3"/>
+     </navPoint>
+     <navPoint id="navPoint-7" playOrder="0D">
+       <navLabel>
+         <text>死亡的末日</text>
+       </navLabel>
+       <content src="text00004.html#sigil_toc_id_4"/>
+     </navPoint>
+     <navPoint id="navPoint-8" playOrder="0E">
+       <navLabel>
+         <text>幸福快乐的权利</text>
+       </navLabel>
+       <content src="text00004.html#sigil_toc_id_5"/>
+     </navPoint>
+     <navPoint id="navPoint-9" playOrder="0F">
+       <navLabel>
+         <text>地球的神</text>
+       </navLabel>
+       <content src="text00004.html#sigil_toc_id_6"/>
+     </navPoint>
+     <navPoint id="navPoint-10" playOrder="10">
+       <navLabel>
+         <text>可以请哪位踩个刹车吗？</text>
+       </navLabel>
+       <content src="text00004.html#sigil_toc_id_7"/>
+     </navPoint>
+     <navPoint id="navPoint-11" playOrder="11">
+       <navLabel>
+         <text>知识的矛盾</text>
+       </navLabel>
+       <content src="text00004.html#sigil_toc_id_8"/>
+     </navPoint>
+     <navPoint id="navPoint-12" playOrder="12">
+       <navLabel>
+         <text>一段关于草坪的历史</text>
+       </navLabel>
+       <content src="text00004.html#sigil_toc_id_9"/>
+     </navPoint>
+     <navPoint id="navPoint-13" playOrder="13">
+       <navLabel>
+         <text>第一幕中出现的一把枪</text>
+       </navLabel>
+       <content src="text00004.html#sigil_toc_id_10"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="navPoint-14" playOrder="03">
+       <navLabel>
+         <text>第一部分 智人征服世界</text>
+       </navLabel>
+       <content src="text00007.html"/>
+     <navPoint id="navPoint-15" playOrder="14">
+       <navLabel>
+         <text>第2章 人类世</text>
+       </navLabel>
+       <content src="text00007.html"/>
+     <navPoint id="navPoint-16" playOrder="1E">
+       <navLabel>
+         <text>蛇的孩子</text>
+       </navLabel>
+       <content src="text00007.html#sigil_toc_id_11"/>
+     </navPoint>
+     <navPoint id="navPoint-17" playOrder="1F">
+       <navLabel>
+         <text>祖先的需求</text>
+       </navLabel>
+       <content src="text00007.html#sigil_toc_id_12"/>
+     </navPoint>
+     <navPoint id="navPoint-18" playOrder="20">
+       <navLabel>
+         <text>生物也是算法</text>
+       </navLabel>
+       <content src="text00007.html#sigil_toc_id_13"/>
+     </navPoint>
+     <navPoint id="navPoint-19" playOrder="21">
+       <navLabel>
+         <text>农业交易</text>
+       </navLabel>
+       <content src="text00007.html#sigil_toc_id_14"/>
+     </navPoint>
+     <navPoint id="navPoint-20" playOrder="22">
+       <navLabel>
+         <text>五百年孤寂</text>
+       </navLabel>
+       <content src="text00007.html#sigil_toc_id_15"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="navPoint-21" playOrder="15">
+       <navLabel>
+         <text>第3章 人类的特殊之处</text>
+       </navLabel>
+       <content src="text00008.html"/>
+     <navPoint id="navPoint-22" playOrder="23">
+       <navLabel>
+         <text>谁怕达尔文？</text>
+       </navLabel>
+       <content src="text00008.html#sigil_toc_id_16"/>
+     </navPoint>
+     <navPoint id="navPoint-23" playOrder="24">
+       <navLabel>
+         <text>为什么股票交易所没有意识？</text>
+       </navLabel>
+       <content src="text00008.html#sigil_toc_id_17"/>
+     </navPoint>
+     <navPoint id="navPoint-24" playOrder="25">
+       <navLabel>
+         <text>生命的等式</text>
+       </navLabel>
+       <content src="text00008.html#sigil_toc_id_18"/>
+     </navPoint>
+     <navPoint id="navPoint-25" playOrder="26">
+       <navLabel>
+         <text>实验室大鼠的抑郁生活</text>
+       </navLabel>
+       <content src="text00008.html#sigil_toc_id_19"/>
+     </navPoint>
+     <navPoint id="navPoint-26" playOrder="27">
+       <navLabel>
+         <text>有自我意识的黑猩猩</text>
+       </navLabel>
+       <content src="text00008.html#sigil_toc_id_20"/>
+     </navPoint>
+     <navPoint id="navPoint-27" playOrder="28">
+       <navLabel>
+         <text>聪明的马</text>
+       </navLabel>
+       <content src="text00008.html#sigil_toc_id_21"/>
+     </navPoint>
+     <navPoint id="navPoint-28" playOrder="29">
+       <navLabel>
+         <text>革命万岁！</text>
+       </navLabel>
+       <content src="text00008.html#sigil_toc_id_22"/>
+     </navPoint>
+     <navPoint id="navPoint-29" playOrder="2A">
+       <navLabel>
+         <text>在色情与暴力之外</text>
+       </navLabel>
+       <content src="text00008.html#sigil_toc_id_23"/>
+     </navPoint>
+     <navPoint id="navPoint-30" playOrder="2B">
+       <navLabel>
+         <text>意义的网</text>
+       </navLabel>
+       <content src="text00008.html#sigil_toc_id_24"/>
+     </navPoint>
+     <navPoint id="navPoint-31" playOrder="2C">
+       <navLabel>
+         <text>大同世界</text>
+       </navLabel>
+       <content src="text00008.html#sigil_toc_id_25"/>
+     </navPoint>
+     </navPoint>
+     </navPoint>
+     <navPoint id="navPoint-32" playOrder="04">
+       <navLabel>
+         <text>第二部分 智人为世界赋予意义</text>
+       </navLabel>
+       <content src="text00010.html"/>
+     <navPoint id="navPoint-33" playOrder="16">
+       <navLabel>
+         <text>第4章 说书人</text>
+       </navLabel>
+       <content src="text00011.html"/>
+     <navPoint id="navPoint-34" playOrder="2D">
+       <navLabel>
+         <text>纸上的生活</text>
+       </navLabel>
+       <content src="text00011.html#sigil_toc_id_26"/>
+     </navPoint>
+     <navPoint id="navPoint-35" playOrder="2E">
+       <navLabel>
+         <text>神圣的经文</text>
+       </navLabel>
+       <content src="text00011.html#sigil_toc_id_27"/>
+     </navPoint>
+     <navPoint id="navPoint-36" playOrder="2F">
+       <navLabel>
+         <text>但这就是有用</text>
+       </navLabel>
+       <content src="text00011.html#sigil_toc_id_28"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="navPoint-37" playOrder="17">
+       <navLabel>
+         <text>第5章 一对冤家</text>
+       </navLabel>
+       <content src="text00012.html"/>
+     <navPoint id="navPoint-38" playOrder="30">
+       <navLabel>
+         <text>细菌和恶魔</text>
+       </navLabel>
+       <content src="text00012.html#sigil_toc_id_29"/>
+     </navPoint>
+     <navPoint id="navPoint-39" playOrder="31">
+       <navLabel>
+         <text>如果遇见佛陀</text>
+       </navLabel>
+       <content src="text00012.html#sigil_toc_id_30"/>
+     </navPoint>
+     <navPoint id="navPoint-40" playOrder="32">
+       <navLabel>
+         <text>伪造上帝</text>
+       </navLabel>
+       <content src="text00012.html#sigil_toc_id_31"/>
+     </navPoint>
+     <navPoint id="navPoint-41" playOrder="33">
+       <navLabel>
+         <text>神圣教条</text>
+       </navLabel>
+       <content src="text00012.html#sigil_toc_id_32"/>
+     </navPoint>
+     <navPoint id="navPoint-42" playOrder="34">
+       <navLabel>
+         <text>猎巫行动</text>
+       </navLabel>
+       <content src="text00012.html#sigil_toc_id_33"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="navPoint-43" playOrder="18">
+       <navLabel>
+         <text>第6章 与“现代”的契约</text>
+       </navLabel>
+       <content src="text00013.html"/>
+     <navPoint id="navPoint-44" playOrder="35">
+       <navLabel>
+         <text>银行家与吸血蝙蝠有何不同？</text>
+       </navLabel>
+       <content src="text00013.html#sigil_toc_id_34"/>
+     </navPoint>
+     <navPoint id="navPoint-45" playOrder="36">
+       <navLabel>
+         <text>奇迹般的大饼</text>
+       </navLabel>
+       <content src="text00013.html#sigil_toc_id_35"/>
+     </navPoint>
+     <navPoint id="navPoint-46" playOrder="37">
+       <navLabel>
+         <text>方舟综合征</text>
+       </navLabel>
+       <content src="text00013.html#sigil_toc_id_36"/>
+     </navPoint>
+     <navPoint id="navPoint-47" playOrder="38">
+       <navLabel>
+         <text>毫无意义的竞赛追逐</text>
+       </navLabel>
+       <content src="text00013.html#sigil_toc_id_37"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="navPoint-48" playOrder="19">
+       <navLabel>
+         <text>第7章 人文主义革命</text>
+       </navLabel>
+       <content src="text00014.html"/>
+     <navPoint id="navPoint-49" playOrder="39">
+       <navLabel>
+         <text>向内心探寻</text>
+       </navLabel>
+       <content src="text00014.html#sigil_toc_id_38"/>
+     </navPoint>
+     <navPoint id="navPoint-50" playOrder="3A">
+       <navLabel>
+         <text>踏上绿野仙踪的黄砖路</text>
+       </navLabel>
+       <content src="text00014.html#sigil_toc_id_39"/>
+     </navPoint>
+     <navPoint id="navPoint-51" playOrder="3B">
+       <navLabel>
+         <text>战争的真相</text>
+       </navLabel>
+       <content src="text00014.html#sigil_toc_id_40"/>
+     </navPoint>
+     <navPoint id="navPoint-52" playOrder="3C">
+       <navLabel>
+         <text>人文主义的分裂</text>
+       </navLabel>
+       <content src="text00014.html#sigil_toc_id_41"/>
+     </navPoint>
+     <navPoint id="navPoint-53" playOrder="3D">
+       <navLabel>
+         <text>贝多芬比查克·贝里更高级吗？</text>
+       </navLabel>
+       <content src="text00014.html#sigil_toc_id_42"/>
+     </navPoint>
+     <navPoint id="navPoint-54" playOrder="3E">
+       <navLabel>
+         <text>宗教的人文战争</text>
+       </navLabel>
+       <content src="text00014.html#sigil_toc_id_43"/>
+     </navPoint>
+     <navPoint id="navPoint-55" playOrder="3F">
+       <navLabel>
+         <text>电力、基因学、伊斯兰激进主义</text>
+       </navLabel>
+       <content src="text00014.html#sigil_toc_id_44"/>
+     </navPoint>
+     </navPoint>
+     </navPoint>
+     <navPoint id="navPoint-56" playOrder="05">
+       <navLabel>
+         <text>第三部分 智人失去控制权</text>
+       </navLabel>
+       <content src="text00017.html"/>
+     <navPoint id="navPoint-57" playOrder="1A">
+       <navLabel>
+         <text>第8章 实验室里的定时炸弹</text>
+       </navLabel>
+       <content src="text00017.html"/>
+     <navPoint id="navPoint-58" playOrder="40">
+       <navLabel>
+         <text>我是谁</text>
+       </navLabel>
+       <content src="text00017.html#sigil_toc_id_45"/>
+     </navPoint>
+     <navPoint id="navPoint-59" playOrder="41">
+       <navLabel>
+         <text>生命的意义</text>
+       </navLabel>
+       <content src="text00017.html#sigil_toc_id_46"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="navPoint-60" playOrder="1B">
+       <navLabel>
+         <text>第9章 大分离</text>
+       </navLabel>
+       <content src="text00018.html"/>
+     <navPoint id="navPoint-61" playOrder="42">
+       <navLabel>
+         <text>无用的阶级</text>
+       </navLabel>
+       <content src="text00018.html#sigil_toc_id_47"/>
+     </navPoint>
+     <navPoint id="navPoint-62" playOrder="43">
+       <navLabel>
+         <text>87%的可能性</text>
+       </navLabel>
+       <content src="text00018.html#sigil_toc_id_48"/>
+     </navPoint>
+     <navPoint id="navPoint-63" playOrder="44">
+       <navLabel>
+         <text>从先知到君主</text>
+       </navLabel>
+       <content src="text00018.html#sigil_toc_id_49"/>
+     </navPoint>
+     <navPoint id="navPoint-64" playOrder="45">
+       <navLabel>
+         <text>不平等的再升级</text>
+       </navLabel>
+       <content src="text00018.html#sigil_toc_id_50"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="navPoint-65" playOrder="1C">
+       <navLabel>
+         <text>第10章 意识的海洋</text>
+       </navLabel>
+       <content src="text00019.html"/>
+     <navPoint id="navPoint-66" playOrder="46">
+       <navLabel>
+         <text>心智的差距</text>
+       </navLabel>
+       <content src="text00019.html#sigil_toc_id_51"/>
+     </navPoint>
+     <navPoint id="navPoint-67" playOrder="47">
+       <navLabel>
+         <text>我闻到恐惧的气味</text>
+       </navLabel>
+       <content src="text00019.html#sigil_toc_id_52"/>
+     </navPoint>
+     <navPoint id="navPoint-68" playOrder="48">
+       <navLabel>
+         <text>宇宙依凭的钉子</text>
+       </navLabel>
+       <content src="text00019.html#sigil_toc_id_53"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="navPoint-69" playOrder="1D">
+       <navLabel>
+         <text>第11章 信数据得永生</text>
+       </navLabel>
+       <content src="text00020.html#notes211"/>
+     <navPoint id="navPoint-70" playOrder="49">
+       <navLabel>
+         <text>所有的权力都去了哪儿？</text>
+       </navLabel>
+       <content src="text00020.html#sigil_toc_id_54"/>
+     </navPoint>
+     <navPoint id="navPoint-71" playOrder="4A">
+       <navLabel>
+         <text>概括历史</text>
+       </navLabel>
+       <content src="text00020.html#sigil_toc_id_55"/>
+     </navPoint>
+     <navPoint id="navPoint-72" playOrder="4B">
+       <navLabel>
+         <text>信息渴求自由</text>
+       </navLabel>
+       <content src="text00020.html#sigil_toc_id_56"/>
+     </navPoint>
+     <navPoint id="navPoint-73" playOrder="4C">
+       <navLabel>
+         <text>记录、上传、分享！</text>
+       </navLabel>
+       <content src="text00020.html#sigil_toc_id_57"/>
+     </navPoint>
+     <navPoint id="navPoint-74" playOrder="4D">
+       <navLabel>
+         <text>认识你自己</text>
+       </navLabel>
+       <content src="text00020.html#sigil_toc_id_58"/>
+     </navPoint>
+     <navPoint id="navPoint-75" playOrder="4E">
+       <navLabel>
+         <text>数据流里的一片涟漪</text>
+       </navLabel>
+       <content src="text00020.html#sigil_toc_id_59"/>
+     </navPoint>
+     </navPoint>
+     </navPoint>
+     <navPoint id="navPoint-76" playOrder="06">
+       <navLabel>
+         <text>图片来源</text>
+       </navLabel>
+       <content src="text00021.html"/>
+     </navPoint>
+     <navPoint id="navPoint-77" playOrder="07">
+       <navLabel>
+         <text>致谢</text>
+       </navLabel>
+       <content src="text00022.html"/>
+     </navPoint>
+     <navPoint id="navPoint-78" playOrder="08">
+       <navLabel>
+         <text>注释</text>
+       </navLabel>
+       <content src="text00023.html#notes1n"/>
+     </navPoint>
+     <navPoint id="navPoint-79" playOrder="09">
+       <navLabel>
+         <text>版权页</text>
+       </navLabel>
+       <content src="text00024.html"/>
+     </navPoint>
+   </navMap>
+</ncx>

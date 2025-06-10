@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <meta name="calibre:title_sort" content="乡土中国.UTF-8"/>
+    <dc:language>zh</dc:language>
+    <dc:creator opf:file-as="费孝通" opf:role="aut">费孝通</dc:creator>
+    <meta name="calibre:timestamp" content="2015-02-28T22:33:12.234000+00:00"/>
+    <dc:title>乡土中国.UTF-8</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.48.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="MOBI-ASIN">08ddf7a9-35b3-4c00-8c75-e9e638b600b1</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">ec239756-e952-4a9e-938c-c17197182f5c</dc:identifier>
+    <dc:identifier opf:scheme="calibre">ec239756-e952-4a9e-938c-c17197182f5c</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover_image.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="index_split_000.html" id="id115" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id114" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id113" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id112" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.html" id="id111" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.html" id="id110" media-type="application/xhtml+xml"/>
+    <item href="index_split_006.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="index_split_007.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="index_split_008.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="index_split_009.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="index_split_010.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="index_split_011.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="index_split_012.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="index_split_013.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_split_014.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id115"/>
+    <itemref idref="id114"/>
+    <itemref idref="id113"/>
+    <itemref idref="id112"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="index_split_014.html#filepos158351" title="Table of Contents" type="toc"/>
+    <reference href="titlepage.xhtml" title="Title Page" type="cover"/>
+  </guide>
+</package>

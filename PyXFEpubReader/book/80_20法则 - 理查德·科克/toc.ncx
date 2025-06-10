@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zho">
+  <head>
+    <meta content="6510f934-d9cc-4667-aa65-dd249232cffd" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (1.36.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>80/20法则</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>扉页</text>
+      </navLabel>
+      <content src="text/part0000.html#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>版权页</text>
+      </navLabel>
+      <content src="text/part0001.html#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>目录</text>
+      </navLabel>
+      <content src="text/part0002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>第一部分 认识80/20法则</text>
+      </navLabel>
+      <content src="text/part0003.html"/>
+      <navPoint class="chapter" id="num_5" playOrder="5">
+        <navLabel>
+          <text>宇宙是不平衡的！</text>
+        </navLabel>
+        <content src="text/part0004.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_6" playOrder="6">
+        <navLabel>
+          <text>第1章 80/20法则欢迎你</text>
+        </navLabel>
+        <content src="text/part0005.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_7" playOrder="7">
+        <navLabel>
+          <text>第2章 80/20法则引发的思考</text>
+        </navLabel>
+        <content src="text/part0006.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>第二部分 企业成功不再是神话</text>
+      </navLabel>
+      <content src="text/part0007.html"/>
+      <navPoint class="chapter" id="num_9" playOrder="9">
+        <navLabel>
+          <text>第3章 秘密崇拜</text>
+        </navLabel>
+        <content src="text/part0008.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_10" playOrder="10">
+        <navLabel>
+          <text>第4章 为何出现战略失误</text>
+        </navLabel>
+        <content src="text/part0009.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_11" playOrder="11">
+        <navLabel>
+          <text>第5章 简单即为美</text>
+        </navLabel>
+        <content src="text/part0010.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_12" playOrder="12">
+        <navLabel>
+          <text>第6章 抓住关键客户</text>
+        </navLabel>
+        <content src="text/part0011.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_13" playOrder="13">
+        <navLabel>
+          <text>第7章 80/20法则十大商业运用</text>
+        </navLabel>
+        <content src="text/part0012.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_14" playOrder="14">
+        <navLabel>
+          <text>第8章 关键少数造就成功</text>
+        </navLabel>
+        <content src="text/part0013.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="15">
+      <navLabel>
+        <text>第三部分 少工作，多赚钱，多享受生活</text>
+      </navLabel>
+      <content src="text/part0014.html"/>
+      <navPoint class="chapter" id="num_16" playOrder="16">
+        <navLabel>
+          <text>第9章 轻松自如</text>
+        </navLabel>
+        <content src="text/part0015.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_17" playOrder="17">
+        <navLabel>
+          <text>第10章 时间革命</text>
+        </navLabel>
+        <content src="text/part0016.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_18" playOrder="18">
+        <navLabel>
+          <text>第11章 心想事成</text>
+        </navLabel>
+        <content src="text/part0017.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_19" playOrder="19">
+        <navLabel>
+          <text>第12章 交友贵在精</text>
+        </navLabel>
+        <content src="text/part0018.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_20" playOrder="20">
+        <navLabel>
+          <text>第13章 聪明和懒惰</text>
+        </navLabel>
+        <content src="text/part0019.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_21" playOrder="21">
+        <navLabel>
+          <text>第14章 财富的聚集效应</text>
+        </navLabel>
+        <content src="text/part0020.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_22" playOrder="22">
+        <navLabel>
+          <text>第15章 幸福的七种习惯</text>
+        </navLabel>
+        <content src="text/part0021.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_23" playOrder="23">
+      <navLabel>
+        <text>第四部分 高潮——继续进步</text>
+      </navLabel>
+      <content src="text/part0022.html"/>
+      <navPoint class="chapter" id="num_24" playOrder="24">
+        <navLabel>
+          <text>第16章 再接再厉</text>
+        </navLabel>
+        <content src="text/part0023.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
