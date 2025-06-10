@@ -1,5 +1,3 @@
-我来帮你整理一个更专业完整的README.md，保留你的核心信息并优化格式：
-
 AIReader - 基于 PyQt6 与讯飞API的 EPUB 阅读器
 
 !https://img.shields.io/badge/Python-3.8+-blue.svg
